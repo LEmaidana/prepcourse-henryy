@@ -1,2 +1,2 @@
 # prepcourse-henryy
- Este es un repositorio de prueba del prep course de henry
+este es un ejercicio de prueba de como crear un repositirio y clonarlo desde github a mi escritotio local 
